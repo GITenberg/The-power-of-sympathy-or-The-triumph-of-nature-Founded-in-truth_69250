@@ -1,0 +1,32 @@
+_repo: The-power-of-sympathy-or-The-triumph-of-nature-Founded-in-truth_69250
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mrs. Perez Morton (Sarah Wentworth Apthorp)
+    gutenberg_agent_id: '55182'
+    url: http://www.gutenberg.org/2009/agents/55182
+  editor:
+    agent_name: Littlefield, Walter
+    birthdate: 1867
+    deathdate: 1948
+    gutenberg_agent_id: '53005'
+    url: http://www.gutenberg.org/2009/agents/53005
+description: ''
+gutenberg_issued: '2022-10-28'
+identifiers:
+  gutenberg: '69250'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924021986306
+pgterms:marc905: 20190912165452morton
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Cupples & Patterson,1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The power of sympathy: or, The triumph of nature. Founded in truth.'
+url: http://www.gutenberg.org/ebooks/69250
