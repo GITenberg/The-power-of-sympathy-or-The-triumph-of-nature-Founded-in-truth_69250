@@ -1,5 +1,8 @@
 _repo: The-power-of-sympathy-or-The-triumph-of-nature-Founded-in-truth_69250
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69250-h/images/cover.jpg
 creator:
   author:
     agent_name: Mrs. Perez Morton (Sarah Wentworth Apthorp)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '53005'
     url: http://www.gutenberg.org/2009/agents/53005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69250#The-power-of-sympathy-or-The-triumph-of-nature-Founded-in-truth
 gutenberg_issued: '2022-10-28'
 identifiers:
   gutenberg: '69250'
